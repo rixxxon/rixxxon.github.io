@@ -1,0 +1,19 @@
+@font-face {
+	font-family: PFdin;
+	url(../fonts/pfdintextpro-regular.ttf) format('truetype');
+	font-weight: normal;
+
+    
+}
+@font-face {
+	font-family: PFdin;
+	url(../fonts/pfdintextpro-bold.ttf) format('truetype');
+    font-weight: bolder;
+}
+
+
+@font-face {
+	font-family: PFdin;
+	url(../fonts/pfdintextpro-meditalic.ttf) format('truetype');
+    font-weight: bold;
+}
